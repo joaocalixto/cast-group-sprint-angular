@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: joaojosechagas
+Build-Jdk: 10.0.1
+Implementation-Title: calixto
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cast.bc
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/calixto
+Created-By: Maven Integration for Eclipse
+
